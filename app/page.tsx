@@ -23,7 +23,7 @@ const page = async () => {
             </p>
             <h1 className='head-text'>
               Unleash the power of
-              <span className='text-primary'> PriceWise</span>
+              <span className='text-primary'> TraceLine</span>
             </h1>
             <p className='mt-6'>
               Powerful, self-serve product and growth analytics to help you convert, engage, and retain more.
