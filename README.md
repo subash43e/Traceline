@@ -25,7 +25,15 @@ npm install
 ```bash
 npm run dev
 ```
-4. Open your browser and navigate to `http://localhost:3000`.
+4. Set up environment variables. Create a .env file in the root directory and add the following:
+```bash
+BRIGHT_DATA_USERNAME=your_bright_data_username
+BRIGHT_DATA_PASSWORD=your_bright_data_password
+MONGODB_URI=your_mongodb_uri
+EMAIL=your_email_address
+EMAIL_PASSWORD=your_email_password
+```
+5. Open your browser and navigate to `http://localhost:3000`.
 
 ## Technologies Used
 
